@@ -21,3 +21,4 @@ stringexcersise:https://github.com/vikassappadlavar2005-svg/Advance-java-j2EE/bl
 stringoperations:https://github.com/vikassappadlavar2005-svg/Advance-java-j2EE/blob/main/stringoperations.png
 
 buttoneventhandling:https://github.com/vikassappadlavar2005-svg/Advance-java-j2EE/blob/main/buttoneventhandling.png
+countrycapitals:https://github.com/vikassappadlavar2005-svg/Advance-java-j2EE/blob/main/countrycapitals.png
